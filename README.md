@@ -2,4 +2,4 @@
 
 A Portfolio Website made to compile all the technical contents.
 
-Link: https://m1racle04.github.io/Blog-Page/
+Link: https://iamishita26.github.io/Blog-Page/
